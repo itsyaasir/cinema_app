@@ -1,5 +1,5 @@
-<img src="screenshot1.png" height="480px">
-<img src="screenshot2.png" height="480px">
+<img src="screenshot1.jpg" height="480px">
+<img src="screenshot2.jpg" height="480px">
 
 # CinemaApp
 
